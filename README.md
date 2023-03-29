@@ -17,4 +17,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ![](https://github.com/remmi755/modal/blob/master/Screenshot_4.jpg)
 
+<h2>1.Conditional render</h2>
+<h2>2.Animated modal window</h2>
+<h2>3.How to pass content to a modal window (children)</h2>
+<h2>4.How to pass props</h2>
 
